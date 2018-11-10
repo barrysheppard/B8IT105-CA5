@@ -13,4 +13,4 @@ You will need to use lambda, map, filter, reduce, generator, and list comprehens
 Submit a Python script of your program to moodle and github as well as any tests you have done which should still work.
 
 ## Code note
-The functions do not have type checking for lists.
+The functions do not have type checking for the contents of lists.
